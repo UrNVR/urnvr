@@ -1,0 +1,12 @@
+[submodule "Initramfs"]
+	path = src/urnvr-init
+	url = https://github.com/UrNVR/urnvr-init.git
+[submodule "Kernel"]
+	path = src/unvr-kernel
+	url = https://github.com/UrNVR/unvr-kernel.git
+[submodule "Buildroot"]
+	path = src/buildroot
+	url = https://github.com/buildroot/buildroot.git
+[submodule "debootstrap"]
+	path = src/debootstrap
+	url = https://salsa.debian.org/installer-team/debootstrap.git
